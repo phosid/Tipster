@@ -1,3 +1,5 @@
+<img src="IMG_6053.jpeg">
+
 # Pre-work - *Tipster*
 
 **Tipster** is a tip calculator application for iOS.
