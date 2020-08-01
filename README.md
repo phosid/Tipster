@@ -1,4 +1,5 @@
-<img src="IMG_6053.jpeg">
+<img src="![IMG_6053](https://user-images.githubusercontent.com/45461414/89094145-31056a80-d37e-11ea-9c92-aa4d815598bb.jpeg)
+"\>
 
 # Pre-work - *Tipster*
 
