@@ -1,5 +1,4 @@
-<img src="![IMG_6053](https://user-images.githubusercontent.com/45461414/89094145-31056a80-d37e-11ea-9c92-aa4d815598bb.jpeg)
-"\>
+<img width="184" alt="Screen Shot 2020-07-31 at 10 38 08 PM" src="https://user-images.githubusercontent.com/45461414/89094199-9194a780-d37e-11ea-922d-c7da8c5c6741.png">
 
 # Pre-work - *Tipster*
 
